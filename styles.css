@@ -61,13 +61,6 @@ nav .menu {
   background-position: center;
   position: relative;
 }
-/* .img::before {
-  content: "";
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  background: rgba(0, 0, 0, 0.4);
-} */
 .center {
   position: absolute;
   color:#fff;
